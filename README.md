@@ -22,7 +22,7 @@ Der Now-Playing Monitor greift genauso wie die Hauptseite des LWS (Liedwunschsys
 Einfach in den DJ-Bereich anmelden auf dem Gerät, dann im Menü auf Jetzt-Spielt-Fenster klicken. Ihr werdet automatisch abgemeldet, damit keine fremde Person in euren DJ-Bereich kommt. Nun könnt ihr (systemspezifisch) diese Seite in den Vollbildmodus machen und habt so eine große Anzeige des aktuell spielenden Liedes!
 
 ## 3. Support
-Wenn ihr Probleme habt, einfach unter support.philipprogramm.de melden! Wenn es besonders schnell gehen muss, gebe ich euch (nur für hier) folgende Schnellsupport-Mail: liedwunschsystem@support.philipprogramm.de!
+Wenn ihr Probleme habt, einfach unter support.philipprogramm.de melden! Wenn es besonders schnell gehen muss, gebe ich euch (nur für hier) folgende Schnellsupport-Mail: lws@support.philipprogramm.de!
 
 HAVE FUN,
 Euer Philipp
