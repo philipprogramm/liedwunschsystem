@@ -1,10 +1,4 @@
 <?php
-session_start();
-if ($_SESSION["logged_in"] != true){
-    Header("Location: login.php");
-}
-?>
-<?php
 date_default_timezone_set("Europe/Berlin");
 $timestamp = time();
 $datum = date("m-d-Y",$timestamp);
