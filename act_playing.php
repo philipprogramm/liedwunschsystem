@@ -51,6 +51,7 @@ function openFullscreen() {
   } else if (elem.msRequestFullscreen) { /* IE/Edge */
     elem.msRequestFullscreen();
   }
+}
 </script>
 <div style="margin-left: -8px; margin-top: -8px; width: 100%; height: 97%; border: none; background-image: linear-gradient(to top, white 0%, black 50%); position:fixed;">
       <div style="color:white;"><center><h1 style="font-size: 350%; margin-top: 50px; font-family: Roboto;">Aktuell läuft:</h1></center></div>
