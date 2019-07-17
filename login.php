@@ -7,7 +7,7 @@ $psw = trim($_POST["psw"]);
 
  
 	$id =  md5($_POST["email"].$_POST["psw"]);
-  	$file = file_get_contents('file.db');
+  	$file = file_get_contents('_SECRET/file.db');
     $file = json_decode($file, true);
 
 	
