@@ -28,7 +28,7 @@ Einfach in den DJ-Bereich anmelden auf dem Gerät, dann im Menü auf Jetzt-Spiel
 Alle Besucher der Seite finden im Menü unter "Gespielte Lieder" eine Übersicht mit Uhrzeiten der gespielten Lieder. Ihr könnt diese Liste im DJ-Bereich unter "Zurücksetzen" zurücksetzen.
 
 ## 3. Support
-Wenn ihr Probleme habt, einfach unter support.philipprogramm.de melden! Wenn es besonders schnell gehen muss, gebe ich euch (nur für hier) folgende Schnellsupport-Mail: lws@support.philipprogramm.de!
+Wenn ihr Probleme habt, einfach eine Mail an lws@support.philipprogramm.de senden oder auf GitHub ein Ticket erstellen!
 
 HAVE FUN,
 Euer Philipp
