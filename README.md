@@ -5,7 +5,7 @@ Dieses Liedwunschsystem ist eine (deutschsprachige) Webanwendung die für DJ's g
 => Ihr findet mehr Informationen auf meinem Blog unter <https://www.philipprogramm.de/va-dj/liedwunschsystem>
 
 ## 1. Einrichten
-Ihr müsst als erstes die ZIP-Datei unter Clone/Download herunterladen und auf eurem Webspace entpacken (wer Hilfe braucht, darf gerne ein Ticket unter www.philipprogramm.de/support hinterlassen!). Dann könnt ihr im Browser folgende Adresse aufrufen: <http://euredomainoderso/_SECRET/secretreg.php> dort könnt ihr euch einen Benutzeraccount (für den DJ) anlegen.
+Ihr müsst als erstes die ZIP-Datei unter Clone/Download herunterladen und auf eurem Webspace entpacken. Dann könnt ihr im Browser folgende Adresse aufrufen: <http://euredomainoderso/_SECRET/secretreg.php> dort könnt ihr euch einen Benutzeraccount (für den DJ) anlegen.
 WENN IHR DANACH KEINE ACCOUNTS MEHR ANLEGEN WOLLT, LÖSCHT DEN GANZEN ORDNER _SECRET! Sonst könnten sich andere Personen einen Account erstellen und eueren DJ-Bereich verändern, Liedwünsche löschen und die Titel ändern!
 Achtung: Bevor ihr das System verwenden könnt, müsst ihr noch im Hauptverzeichnis des LWS' einen Ordner mit dem Namen wuensche erstellen! Sonst kommt es zu Fehlern.
 
@@ -29,6 +29,3 @@ Alle Besucher der Seite finden im Menü unter "Gespielte Lieder" eine Übersicht
 
 ## 3. Support
 Wenn ihr Probleme habt, einfach eine Mail an lws@support.philipprogramm.de senden oder auf GitHub ein Ticket erstellen!
-
-HAVE FUN,
-Euer Philipp
