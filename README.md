@@ -2,7 +2,7 @@
 
 Dieses Liedwunschsystem ist eine (deutschsprachige) Webanwendung die für DJ's gedacht ist. Mit ihr kann man die Wünsche der Gäste ganz digital einsammeln sowie ihnen den Namen und den Künstler des aktuellen Liedes einfach zeigen. Auch ist es möglich, auf großen Bildschirmen den Namen anzuzeigen.
 
-=> Ihr findet mehr Informationen auf meinem Blog unter <https://www.philipprogramm.de/va-dj/dj/liedwunschsystem>
+=> Ihr findet mehr Informationen auf meinem Blog unter <https://www.philipprogramm.de/va-dj/liedwunschsystem>
 
 ## 1. Einrichten
 Ihr müsst als erstes die ZIP-Datei unter Clone/Download herunterladen und auf eurem Webspace entpacken (wer Hilfe braucht, darf gerne ein Ticket unter www.philipprogramm.de/support hinterlassen!). Dann könnt ihr im Browser folgende Adresse aufrufen: <http://euredomainoderso/_SECRET/secretreg.php> dort könnt ihr euch einen Benutzeraccount (für den DJ) anlegen.
